@@ -1,4 +1,4 @@
-# Lesson Title
+# The OSI and TCP/IP Model
 
 ## Learning Goals
 
@@ -10,8 +10,6 @@
 
 In the previous lesson, we learned about layered architecture. We will be
 looking at two of the most common models of computer network organization.
-
-## Packets
 
 ## The OSI Model
 
